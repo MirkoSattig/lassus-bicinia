@@ -1,0 +1,93 @@
+01-beatus-vir:
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [92, 112]
+    lower: [80, 108]
+  -
+    upper: [118, 126]
+    lower: [116, 124]
+  -
+    upper: [138, 148]
+    lower: [146, 156]
+  -
+    upper: [156, 170]
+    lower: [158, 172]
+  -
+    upper: [174, 184]
+    lower: [178, 188]
+  -
+    upper: [210, 220]
+    lower: [214, 224]
+
+02-beatus-homo:
+  Cantus: [8, 20] [50, 84] [98, 114] [142, 148] [154, 160] [162, 170] [194, 218] [222, 240] [242, 258]
+  Altus: [0, 12] [42, 76] [110, 122] [138, 144] [150, 156] [160, 170] [198, 222] [226, 242] [244, 260]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+  -
+    upper: [8, 66]
+    lower: [0, 58]
+
+03-oculus-non-vidit:
+  Cantus: [0, 20] []
+  Altus: []
+
+04-justus-cor-suum-tradet:
+  Cantus: []
+  Altus: []
+
+05-exspectatio-justorum:
+  Cantus: []
+  Altus: []
+
+06-qui-sequitur-me:
+  Cantus: []
+  Altus: []
+
+07-justi-tulerunt-spolia:
+  Tenor: []
+  Bassus: []
+
+08-sancti-mei:
+  Tenor: []
+  Bassus: []
+
+09-qui-vult-venire-post-me:
+  Tenor: []
+  Bassus: []
+
+10-serve-bone:
+  Tenor: []
+  Bassus: []
+
+11-fulgebunt-justi:
+  Tenor: []
+  Bassus: []
+
+12-sicut-rosa:
+  Tenor: []
+  Bassus: []
