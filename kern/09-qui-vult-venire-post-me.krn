@@ -1,14 +1,16 @@
-!!!COM: Lasso
-!!!OTL: 9. Qui vult venire post me
-!!!OMV: Partie 1
+!!!COM: Lassus, Orlandus
+!!!OPR: Novae aliquot et ante hac non ita usitatae cantiones suavissimae
+!!!ONM: 9
+!!!OTL@@LA: Qui vult venire post me
 **kern	**text	**kern	**text
-*part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*
+*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*
 *k[b-]	*	*k[b-]	*
 *F:	*	*F:	*
 *M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*
 =1	=1	=1	=1
 0C	Qui	1r	.
 .	.	0c	Qui
@@ -246,5 +248,19 @@
 0FF	-nus.	0F	-nus.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: s1,s2
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
+!!!PDT: 1590
+!!!PED: Adam Berg
+!!!AGN: Motet; Bicinium
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00090897
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=4 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=44 Altus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00090897/manifest
+!!!EED: Mirko Sattig
+!!!END: 2023/11/24
+!!!ENC: Mirko Sattig
+!!!EEV: 2023/12/01
+!!!title: @{ONM}. @{OTL}
+!!!system-decoration: [(s1,s2)]

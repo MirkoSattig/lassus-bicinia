@@ -1,13 +1,14 @@
-!!!COM: Lassus
-!!!OTL: 11. Fulgebunt justi
-!!!OMV: Partie 1
+!!!COM: Lassus, Orlandus
+!!!OPR: Novae aliquot et ante hac non ita usitatae cantiones suavissimae
+!!!ONM: 11
+!!!OTL@@LA: Fulgebunt justi
 **kern	**text	**kern	**text
-*part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*
+*I'A	*	*I'C	*
 *clefF4	*	*clefGv2	*
-*k	*	*k	*
-*F:	*	*F:	*
+*k[]	*	*k[]	*
+*G:mix	*	*G:mix	*
 *M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*
 *MM180	*	*MM180	*
@@ -258,7 +259,7 @@
 8AAL	.	.	.
 8GGJ	.	.	.
 2.AA	.	.	.
-.	.	2F	-mi-
+.	.	2Fi#	-mi-
 4AA	-mi-	.	.
 =34	=34	=34	=34
 2E	-num,	[0G	-num.
@@ -277,4 +278,19 @@
 0GG	-num.	0G]	.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: s1,s2
+!!!RDF**kern: l = terminal long
+!!!RDF**kern: i = editorial accidental
+!!!PDT: 1590
+!!!PED: Adam Berg
+!!!AGN: Motet; Bicinium
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00090897
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=4 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=44 Altus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00090897/manifest
+!!!EED: Mirko Sattig
+!!!END: 2023/11/24
+!!!ENC: Mirko Sattig
+!!!EEV: 2023/12/01
+!!!title: @{ONM}. @{OTL}
+!!!system-decoration: [(s1,s2)]

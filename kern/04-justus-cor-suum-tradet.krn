@@ -1,14 +1,16 @@
-!!!COM: Lasso
-!!!OTL: Justus cor suum tradet
-!!!OMV: Partie 1
+!!!COM: Lassus, Orlandus
+!!!OPR: Novae aliquot et ante hac non ita usitatae cantiones suavissimae
+!!!ONM: 2
+!!!OTL@@LA: Justus cor suum tradet
 **kern	**text	**kern	**text
-*part2	*part2	*part1	*part1
 *staff2	*staff2	*staff1	*staff1
 *I"Altus	*	*I"Cantus	*
-*clefC2	*	*clefG2	*
+*I'A	*	*I'C	*
+*clefC3	*	*clefC1	*
 *k[]	*	*k[]	*
-*C:	*	*C:	*
-*M4/2	*	*M4/2	*
+*d:dor	*	*d:dor	*
+*M2/1	*	*M2/1	*
+*met(C|)	*	*met(C|)	*
 =1	=1	=1	=1
 0r	.	0dd	Ju-
 =2	=2	=2	=2
@@ -164,7 +166,7 @@
 4d	.	.	.
 4g	.	.	.
 4f	.	.	.
-2b	.	.	.
+2bi-	.	.	.
 =25	=25	=25	=25
 2g	-pre-	1dd	-pre-
 2f.	-ca-	.	.
@@ -175,7 +177,7 @@
 .	.	8aJ	.
 =26	=26	=26	=26
 .	.	2b	.
-2g	-bi-	2b	-bi-
+2gi#	-bi-	2b	-bi-
 1a	tur,	2a	-tur,
 .	.	1cc	de-
 =27	=27	=27	=27
@@ -227,5 +229,19 @@
 0d	-tur.	0dd	-tur.
 ==	==	==	==
 *-	*-	*-	*-
-!!!system-decoration: s1,s2
+!!!RDF**kern: l = terminal long
 !!!RDF**kern: i = editorial accidental
+!!!PDT: 1590
+!!!PED: Adam Berg
+!!!AGN: Motet; Bicinium
+!!!YOR: https://mdz-nbn-resolving.de/details:bsb00090897
+!!!YOO: München, Bayerische Staatsbibliothek
+!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=4 Cantus
+!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=44 Altus
+!!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00090897/manifest
+!!!EED: Mirko Sattig
+!!!END: 2023/11/24
+!!!ENC: Mirko Sattig
+!!!EEV: 2023/12/01
+!!!title: @{ONM}. @{OTL}
+!!!system-decoration: [(s1,s2)]
