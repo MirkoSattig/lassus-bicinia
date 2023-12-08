@@ -17,77 +17,256 @@
   -
     upper: [174, 184]
     lower: [178, 188]
-  -
+  - # dasselbe Soggetto wie vorher #
     upper: [210, 220]
     lower: [214, 224]
 
 02-beatus-homo:
-  Cantus: [8, 20] [50, 84] [98, 114] [142, 148] [154, 160] [162, 170] [194, 218] [222, 240] [242, 258]
-  Altus: [0, 12] [42, 76] [110, 122] [138, 144] [150, 156] [160, 170] [198, 222] [226, 242] [244, 260]
   -
-    upper: [8, 66]
-    lower: [0, 58]
+    upper: [8, 20]
+    lower: [0, 12]
   -
-    upper: [8, 66]
-    lower: [0, 58]
+    upper: [42, 76]
+    lower: [38, 68]
   -
-    upper: [8, 66]
-    lower: [0, 58]
+    upper: [90, 106]
+    lower: [102, 114]
   -
-    upper: [8, 66]
-    lower: [0, 58]
+    upper: [134, 140]
+    lower: [130, 136]
+  - # dasselbe Soggetto wie vorher #
+    upper: [146, 152]
+    lower: [142, 148]
   -
-    upper: [8, 66]
-    lower: [0, 58]
+    upper: [154, 162]
+    lower: [152, 162]
   -
-    upper: [8, 66]
-    lower: [0, 58]
+    upper: [186, 210]
+    lower: [190, 214]
   -
-    upper: [8, 66]
-    lower: [0, 58]
+    upper: [214, 232]
+    lower: [218, 234]
   -
-    upper: [8, 66]
-    lower: [0, 58]
-  -
-    upper: [8, 66]
-    lower: [0, 58]
+    upper: [234, 250]
+    lower: [236, 252]
 
 03-oculus-non-vidit:
-  Cantus: [0, 20] []
-  Altus: []
+  -
+    upper: [0,20]
+    lower: [12, 32]
+  -
+    upper: [26, 44]
+    lower: [38, 54]
+  -
+    upper: [70, 84]
+    lower: [74, 88]
+  -
+    upper: [88, 104]
+    lower: [90, 106]
+  - # überprüfen: Soggetto zweiteilig? #
+    upper: [126, 144]
+    lower: [122, 140]
+  -
+    upper: [160, 176]
+    lower: [164, 180]
+  -
+    upper: [194, 212]
+    lower: [198, 208]
 
 04-justus-cor-suum-tradet:
-  Cantus: []
-  Altus: []
+  -
+    upper: [0, 36]
+    lower: [8, 44]
+  -
+    upper: [42, 62]
+    lower: [50, 70]
+  -
+    upper: [90, 104]
+    lower: [94, 108]
+  - # dasselbe Soggetto wie vorher #
+    upper: [110, 124]
+    lower: [114, 128]
+  -
+    upper: [126, 134]
+    lower: [130, 148]
+  -
+    upper: [138, 162]
+    lower: [142, 166]
+  - # dieses Soggetto ist keine echte Imitation: es erklingt 1. nacheinander und 2. im Altus zwei Mal #
+    upper: [184, 204]
+    lower: [208, 228] [236, 256]
 
 05-exspectatio-justorum:
-  Cantus: []
-  Altus: []
+  -
+    upper: [12, 36]
+    lower: [0, 24]
+  -
+    upper: [42, 60]
+    lower: [30, 48]
+  -
+    upper: [66, 82]
+    lower: [54, 70]
+  -
+    upper: [86, 96]
+    lower: [74, 84]
+  -
+    upper: [100, 108]
+    lower: [92, 100]
+  -
+    upper: [122, 132]
+    lower: [126, 136]
+  - # gehören dieses und das vorherige Soggetto zusammen? #
+    upper: [138, 146]
+    lower: [140, 150]
+  -
+    upper: [178, 206]
+    lower: [186, 134]
 
 06-qui-sequitur-me:
-  Cantus: []
-  Altus: []
+  -
+    upper: [0, 50]
+    lower: [4, 52]
+  -
+    upper: [54, 64]
+    lower: [52, 68]
+  - # dasselbe Soggetto wie das vorherige #
+    upper: [70, 80]
+    lower: [74, 84]
+  -
+    upper: [118, 134]
+    lower: [110, 126]
+  - # Variation des vorhergehenden Soggettos #
+    upper: [136, 148]
+    lower: [130, 140]
+  -
+    upper: [194, 208]
+    lower: [198, 212]
+  -
+    upper: [210, 231]
+    lower: [134, 237]
 
 07-justi-tulerunt-spolia:
-  Tenor: []
-  Bassus: []
+  -
+    upper: [0, 28]
+    lower: [8, 36]
+  -
+    upper: [34, 44]
+    lower: [42, 52]
+  - # dasselbe Soggetto wie das vorherige #
+    upper: [50, 60]
+    lower: [58, 68]
+  -
+    upper: [66, 92]
+    lower: [74, 96]
+  -
+    upper: [138, 154]
+    lower: [134, 156]
+  -
+    upper: [166, 178]
+    lower: [172, 186]
+  -
+    upper: [200, 228]
+    lower: [198, 220]
 
 08-sancti-mei:
-  Tenor: []
-  Bassus: []
+  - # Soggetto 1 #
+    upper: [28, 48]
+    lower: [0, 20]
+  - # Soggetto 2 #
+    upper: [4, 20]
+    lower: [32, 48]
+  -
+    upper: [62, 82]
+    lower: [54, 73]
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
 
 09-qui-vult-venire-post-me:
-  Tenor: []
-  Bassus: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
 
 10-serve-bone:
-  Tenor: []
-  Bassus: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
 
 11-fulgebunt-justi:
-  Tenor: []
-  Bassus: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
+  -
+    upper: []
+    lower: []
 
 12-sicut-rosa:
-  Tenor: []
-  Bassus: []
+  -
+    upper: []
+    lower: []
