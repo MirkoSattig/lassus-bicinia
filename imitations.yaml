@@ -94,7 +94,7 @@
     lower: [142, 166]
   - # dieses Soggetto ist keine echte Imitation: es erklingt 1. nacheinander und 2. im Altus zwei Mal #
     upper: [184, 204]
-    lower: [208, 228] [236, 256]
+    lower: [208, 228] #[236, 256]#
 
 05-exspectatio-justorum:
   -
