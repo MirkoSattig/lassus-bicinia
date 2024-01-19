@@ -179,60 +179,84 @@
     upper: [62, 82]
     lower: [54, 73]
   -
-    upper: []
-    lower: []
+    upper: [98, 120]
+    lower: [92, 116]
   -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
+    upper: [138, 162]
+    lower: [142, 164]
+  - # Soggetto 6 #
+    upper: [176, 188]
+    lower: [174, 186]
+  - # Wiederholung des Soggetto #
+    upper: [210, 222]
+    lower: [212, 224]
+  - # nochmal Wiederholung des Soggetto #
+    upper: [248, 262]
+    lower: [254, 264]
 
 09-qui-vult-venire-post-me:
   -
+    upper: [4, 50]
+    lower: [0, 46]
+  - # Soggetto 2(1) #
+    upper: [82, 86]
+    lower: [86, 90]
+  - # Soggetto 2(2) #
+    upper: [102, 106]
+    lower: [106, 110]
+  - # Soggetto 3(1) #
+    upper: [90, 98]
+    lower: [94, 100]
+  - # Soggetto 3(2) #
+    upper: [110, 116]
+    lower: [114, 120]
+  - # Soggetto 4 #
+    upper: [118, 128]
+    lower: [126, 136]
+  - # Soggetto 4 #
+    upper: [146, 154]
+    lower: [150, 158]
+  -
+    upper: [176, 194]
+    lower: [174, 192]
+  - # Soggetto hellblau fehlt hier #
     upper: []
     lower: []
   -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
+    upper: [248, 262]
+    lower: [246, 256]
+  - # dasselbe wie vorher #
+    upper: [270, 281]
+    lower: [272, 281]
 
 10-serve-bone:
   -
-    upper: []
-    lower: []
+    upper: [0, 24]
+    lower: [12, 36]
   -
-    upper: []
-    lower: []
+    upper: [54, 68]
+    lower: [46, 56]
   -
-    upper: []
-    lower: []
+    upper: [74, 88]
+    lower: [66, 80]
   -
-    upper: []
-    lower: []
+    upper: [98, 112]
+    lower: [90, 104]
   -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
+    upper: [118, 138]
+    lower: [110, 130]
+  - # Soggetto lila #
+    upper: [142, 148]
+    lower: [134, 140]
+  - # Soggetto lila #
+    upper: [158, 164]
+    lower: [150, 156]
+  - # Soggetto lachsfarben #
+    upper: [168, 172]
+    lower: [166, 170]
+  - # Soggetto lachsfarben #
+    upper: [176, 180]
+    lower: [174, 178]
   -
     upper: []
     lower: []
