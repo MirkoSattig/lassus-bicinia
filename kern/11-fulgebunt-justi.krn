@@ -5,7 +5,7 @@
 **kern	**text	**kern	**text
 *staff2	*staff2	*staff1	*staff1
 *I"Bassus	*	*I"Tenor	*
-*I'A	*	*I'C	*
+*I'B	*	*I'T	*
 *clefF4	*	*clefGv2	*
 *k[]	*	*k[]	*
 *G:mix	*	*G:mix	*
@@ -285,12 +285,12 @@
 !!!AGN: Motet; Bicinium
 !!!YOR: https://mdz-nbn-resolving.de/details:bsb00090897
 !!!YOO: München, Bayerische Staatsbibliothek
-!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=4 Cantus
-!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=44 Altus
+!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=14 Tenor
+!!!URL-scan: https://www.digitale-sammlungen.de/view/bsb00090897?page=54 Bassus
 !!!IIIF: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00090897/manifest
 !!!EED: Mirko Sattig
 !!!END: 2023/11/24
 !!!ENC: Mirko Sattig
-!!!EEV: 2023/12/01
+!!!EEV: 2024/01/19
 !!!title: @{ONM}. @{OTL}
 !!!system-decoration: [(s1,s2)]
