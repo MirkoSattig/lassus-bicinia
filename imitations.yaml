@@ -257,40 +257,58 @@
   - # Soggetto lachsfarben #
     upper: [176, 180]
     lower: [174, 178]
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
+  - # Soggetto neongelb #
+    upper: [186, 194]
+    lower: [182, 192]
+  - # Sogetto neongelb #
+    upper: [210, 216]
+    lower: [206, 212]
+  - # Sogetto neongelb #
+    upper: [222, 234]
+    lower: [218, 230]
 
 11-fulgebunt-justi:
   -
-    upper: []
-    lower: []
+    upper: [0, 20]
+    lower: [8, 24]
+  - # Soggetto orange, kehrt T. 10-12 nochmal wieder #
+    upper: [22, 32]
+    lower: [30, 40]
   -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
-  -
-    upper: []
-    lower: []
+    upper: [42, 28]
+    lower: [50, 65]
+  - # Soggetto blassgrün, kehrt ab 21 mehrfach wieder #
+    upper: [62, 68]
+    lower: [66, 72]
+  - # T. 12-14 #
+    upper: [90, 102]
+    lower: [98, 110]
+  - # T. 14-16 #
+    upper: [106, 112]
+    lower: [114, 120]
+  - # Soggetto hellblau, kehrt auch in Umkehrung nochmal wieder #
+    upper: [118, 128]
+    lower: [126, 136]
 
 12-sicut-rosa:
+  - # Soggetto 1 #
+    upper: [0, 24]
+    lower: [24, 48]
+  - # Soggetto 2 #    # Soggetti 1 und 2 erscheinen in T. 1-7 über Kreuz # 
+    upper: [2, 20]
+    lower: [26, 44]
   -
-    upper: []
-    lower: []
+    upper: [66, 84]
+    lower: [74, 94]
+  -
+    upper: [98, 136]
+    lower: [106, 144]
+  -
+    upper: [146, 152]
+    lower: [154,160]
+  -
+    upper: [178, 200]
+    lower: [174, 197]
+  -
+    upper: [218, 230]
+    lower: [214,228]
