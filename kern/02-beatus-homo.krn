@@ -7,7 +7,7 @@
 *I"Altus	*	*I"Cantus	*
 *I'A	*	*I'C	*
 *clefC3	*	*clefC1	*
-*mclefGv2 *  *mclefG2 *
+*mclefGv2	*	*mclefG2	*
 *k[]	*	*k[]	*
 *d:dor	*	*d:dor	*
 *M2/1	*	*M2/1	*
@@ -244,6 +244,6 @@
 !!!EED: Mirko Sattig
 !!!END: 2023/11/24
 !!!ENC: Mirko Sattig
-!!!EEV: 2024/01/19
+!!!EEV: 2024/02/03
 !!!title: @{ONM}. @{OTL}
 !!!system-decoration: [(s1,s2)]
