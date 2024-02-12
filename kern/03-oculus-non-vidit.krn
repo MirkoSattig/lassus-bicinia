@@ -12,6 +12,7 @@
 *d:dor	*	*d:dor	*
 *M2/1	*	*M2/1	*
 *met(C|)	*	*met(C|)	*
+*MM180	*	*MM180	*
 =1	=1	=1	=1
 0r	.	1.ee	O-
 .	.	2dd	-cu-
@@ -239,6 +240,6 @@
 !!!EED: Mirko Sattig
 !!!END: 2023/11/24
 !!!ENC: Mirko Sattig
-!!!EEV: 2024/02/03
+!!!EEV: 2024/02/12
 !!!title: @{ONM}. @{OTL}
-!!!system-decoration: [(s1,s2)]
+!!!system-decoration: [s1,s2]
